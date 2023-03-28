@@ -1,6 +1,6 @@
 ### Hi there, I am Dishant Sethi 👋
 
-1+ years professional experience as software developer. <img src="https://images.ctfassets.net/3prze68gbwl1/asset-17suaysk1qa1jhl/d276861783e0ab0ffab32afcdc84d597/python-socket-programming.jpg" alt="" height="20"> Python expert. <img src="https://miro.medium.com/max/720/1*LjR0UrFB2a__5h1DWqzstA.png" alt="" height="20"> JavaScript enthusiast.
+3+ years professional experience as software developer. <img src="https://images.ctfassets.net/3prze68gbwl1/asset-17suaysk1qa1jhl/d276861783e0ab0ffab32afcdc84d597/python-socket-programming.jpg" alt="" height="20"> Python expert. <img src="https://miro.medium.com/max/720/1*LjR0UrFB2a__5h1DWqzstA.png" alt="" height="20"> JavaScript enthusiast.
 
 Fast learner and eager to explore new technologies. Believer in agile software development, team work and Clean Code. Always questioning the status and wanting to improve. Able and willing to think outside the box.
 
